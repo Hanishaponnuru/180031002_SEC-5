@@ -14,6 +14,7 @@ public static void main(String[] args) {
 			int k=a[i];
 			c=(char)k;
 			System.out.println(k+"  "+c);
+			sc.close();
 		}
 		
 	}

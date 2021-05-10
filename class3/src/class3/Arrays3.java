@@ -29,6 +29,7 @@ public static void main(String[] args) {
 		if(c==0)
 		{
 			System.out.println(-1);
+			sc.close();
 		}
 	}
 

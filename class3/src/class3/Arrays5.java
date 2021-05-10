@@ -18,6 +18,7 @@ public class Arrays5 {
 		Arrays.sort(a);
 		System.out.println("1st two Min"+a[0]+" "+a[1]);
 		System.out.println(" two Max"+a[n-1]+" "+a[n-2]);
+		sc.close();
 
 	}
 
